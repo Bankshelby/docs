@@ -34,7 +34,7 @@ Every Tasker should have a GitHub account in order to be able to change the cont
 
 Every card’s title from our Issue Tracker should get an entry in the list as a list item (with the exception of those cards entitled with [INTERNAL]). List items should be sorted by priority inside their section, with the top priority items on the top.
 
-A checkbox is created by placing `- [ ] ` in front of the item, while the completed task/item is set by placing x instead of space `- [x] `.
+A checkbox is created by placing `- [-] ` in front of the item, while the completed task/item is set by placing x instead of space `- [x] `.
 
 
 # Minimal conditions to become a Tasker
@@ -179,14 +179,14 @@ Marking a comment with `:noted:` is an obligation for the Tasker to create a car
     * A Tasker creates a retweet containing `:noted:` and the original tweet
 
 
-### :na:
+### :NA:
 
 A Tasker marks a comment with `:na:` (*not applicable*) when they are sure that the request won't be implemented in ASA Stats.
 
 Marking a comment with `:na:` creates an obligation for the Tasker to further explain the Tasker's/ASA Stats' reasoning for that to the commenter.
 
 
-#### Platform-specific instructions for :na:
+#### Platform-specific instructions for :NA:
 
 * Discord
 
@@ -205,7 +205,7 @@ Marking a comment with `:na:` creates an obligation for the Tasker to further ex
     * A further explanation can be added in the same tweet next to the starting `:na:` followed by a space
 
 
-### Issue creation
+# Issue creation
 
 The Tasker who has marked the comment with `:noted:` has to create a card in our Issue Tracker and assigns him/herself to the card afterward.
 
@@ -331,7 +331,7 @@ For the missing connections (implies no rewards have been sent yet to that user)
 
 ### Rewards sending
 
-For the missing opt-ins, an admin from the related channel will reach the user in DM asking from them to opt-in for the ASA STats Token.
+For the missing opt-ins,an admin from the related channel will reach the user in DM asking from them to opt-in for the ASA STats Token.
 
 
 # Other official discussions and subprojects
